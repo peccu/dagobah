@@ -14,7 +14,7 @@ import (
 	"strings"
 	"time"
 
-	rss "github.com/jteeuwen/go-pkg-rss"
+	rss "github.com/muesli/go-pkg-rss"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 	"gopkg.in/mgo.v2/bson"
