@@ -5,7 +5,7 @@
 
 package main
 
-import "github.com/spf13/dagobah/commands"
+import "github.com/peccu/dagobah/commands"
 
 func main() {
 	commands.Execute()

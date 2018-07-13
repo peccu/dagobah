@@ -39,8 +39,8 @@ into the binary.
 
     go get github.com/GeertJohan/go.rice
     go get github.com/GeertJohan/go.rice/rice
-    go get github.com/spf13/dagobah
-    cd $GOPATH/src/github.com/spf13/dagobah/commands
+    go get github.com/peccu/dagobah
+    cd $GOPATH/src/github.com/peccu/dagobah/commands
     rice embed-go
     cd ..
     go build
